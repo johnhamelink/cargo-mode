@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.0.10 (2026-01-14)
 
 ### Enhancements
 - feat: Add support for default parameters per-command with cargo-mode-default-params ([#27](https://github.com/ayrat555/cargo-mode/pull/27))
